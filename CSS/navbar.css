@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    flex-direction: column-reverse;
+    
+}
+
+.headernav {
+    display: flex;
+    justify-content: space-around;
+
+}
+.description {
+   
+}
+.description img {
+   
+}
