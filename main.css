@@ -1,0 +1,24 @@
+@import "navbar.css";
+@import "body.css";
+@import "cards.css";
+
+:root {
+    --main-color: rgb(67, 210, 68);
+    --dark: rgb(67, 210, 68);
+    --light: rgb(227, 255, 227);
+
+    --main-font: 'Lato, sans-serif';
+    --title-font: 'cursive';
+
+    --spacing-sm: calc(var(--spacing) / 2);
+    --spacing: 16px;
+    --spacing-lg: calc(var(--spacing) * 2);
+}
+
+body {
+    font-family: var(--main-color);
+}
+
+h1, h2 {
+    font-family: var(--title-font);
+}
