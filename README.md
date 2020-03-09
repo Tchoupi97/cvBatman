@@ -8,6 +8,8 @@
 ## But: 
 > Construction d'un cv en ligne pour Monsieur Batman
 
+![projet](https://docs.google.com/document/d/137AFfRgGlVKoyh17TYI3uZ1HnJtSwvSdS9cTz117Abk/edit?usp=sharing)
+
 ## Description des fonctionnalitées:
 
 ### Menu/navbar: 
